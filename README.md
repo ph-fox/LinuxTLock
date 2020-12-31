@@ -1,12 +1,12 @@
 ## LinuxTLock
-# Linux Terminal Locker
+### Linux Terminal Locker
 used to lock your linux terminal
 
-# How to install?
+### How to install?
 type in terminal
 python3 install.py
 then read the instructions and your ready to go!
 
-# How uninstall?
+### How uninstall?
 
-go to.
+go to /etc/bash.bashrc then go scroll until you see python3 lock.py then remove the python3 lock.py to remove lock
